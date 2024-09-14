@@ -1,8 +1,12 @@
 # [Personal Portfolio Website](https://heartybp.github.io/Portfolio/)
 
-Welcome to my personal portfolio website, a project I built from scratch using **HTML**, **CSS**, and **JavaScript**. Although I have experience with frameworks like React and TailWind CSS, I opted to use vanilla technologies for this project to exercise greater control over custom styles and positioning.
+Welcome to my personal portfolio website, a project I built from scratch using **HTML**, **CSS**, and **JavaScript**. Although I have experience with frameworks like React and TailWind CSS, I opted to use vanilla technologies to exercise greater control over custom styles and positioning.
 
+
+
+<img src="https://github.com/user-attachments/assets/154d7d07-33b1-4212-b3da-4aaecb7a7a5b" alt="portfolio-preview" width="600"><br>
 https://heartybp.github.io/Portfolio/
+
 ## Features
 
 ### 1. Flip Card Avatar Effect
@@ -20,8 +24,8 @@ The site is designed to be responsive, adjusting to various screen sizes and dev
 ## Known Issues
 While the site is functional, there are a few areas that need improvement:
 - The **typewriter text** tends to misalign when resizing the browser.
-- The site currently doesn't fully support **zooming** in/out in the browser.
-- A **horizontal overflow** appears when zooming in or out on mobile devices.
+- The site currently doesn't fully support responsiveness when **zooming** in/out in the browser.
+- A **horizontal overflow** may appear when refreshing the browser, or when zooming in/out on mobile devices.
 - On **Mozilla Firefox**, the flip card's back graphic isn't hidden during the flip transition.
 
 ## Future Improvements
@@ -30,5 +34,5 @@ I plan to learn the necessary skills to improve the website’s responsiveness a
 Thank you for visiting my portfolio site! Feel free to explore and reach out with any feedback.
 
 ## License
-© 2024 [Hearty Parrenas]. All rights reserved.  
-All work, unless otherwise stated, is my **original work**.
+© 2024 Hearty Parrenas. All rights reserved.  
+All content and code, unless otherwise specified, are my **original creations**.
