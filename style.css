@@ -393,6 +393,7 @@ p{
 .two-blocks-2{
     display:flex;
     justify-content: center;
+    text-align:center;
 
     transform: translateX(-60%);
     opacity: 0;
