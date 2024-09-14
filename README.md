@@ -1,8 +1,34 @@
-# [Portfolio Website](https://heartybp.github.io/Portfolio/)
-![portfolio-preview](https://github.com/user-attachments/assets/443eb887-5246-4bf0-89cf-f521d9a15cb9)
+# [Personal Portfolio Website](https://heartybp.github.io/Portfolio/)
 
-Welcome to my portfolio website! This website features a clean, responsive design with interactive elements to highlight my work and experience. Explore my projects, read about my background, and get in touch through the contact page. 
+Welcome to my personal portfolio website, a project I built from scratch using **HTML**, **CSS**, and **JavaScript**. Although I have experience with frameworks like React and TailWind CSS, I opted to use vanilla technologies for this project to exercise greater control over custom styles and positioning.
 
 https://heartybp.github.io/Portfolio/
+## Features
 
-Note: While the site is designed to be responsive on various devices, please be aware that responsiveness when zooming in has not been implemented.
+### 1. Flip Card Avatar Effect
+I implemented a 3D flip card for my avatar that creates a dynamic effect when hovered over. For guidance, I referenced the tutorial on [W3Schools](https://www.w3schools.com/howto/howto_css_flip_card.asp).
+
+### 2. TypeWriter Effect
+The website also features a typewriter animation that cycles through different texts. Initially, I referenced the basic typewriter tutorial from [W3Schools](https://www.w3schools.com/howto/howto_css_flip_card.asp), but I extended the functionality to allow for an infinite loop of multiple texts, modifying it based on other resources.
+
+### 3. Graphic Icons & Images
+The icons and images on the website were sourced and customized via **Canva**, which also aided me in drafting the overall visual design.
+
+### 4. Responsiveness & Accessibility
+The site is designed to be responsive, adjusting to various screen sizes and device resolutions. It supports most browser resizing and aims to deliver a consistent experience across devices.
+
+## Known Issues
+While the site is functional, there are a few areas that need improvement:
+- The **typewriter text** tends to misalign when resizing the browser.
+- The site currently doesn't fully support **zooming** in/out in the browser.
+- A **horizontal overflow** appears when zooming in or out on mobile devices.
+- On **Mozilla Firefox**, the flip card's back graphic isn't hidden during the flip transition.
+
+## Future Improvements
+I plan to learn the necessary skills to improve the website’s responsiveness and accessibility. By expanding my knowledge, I aim to do a better job of handling these challenges in future projects.
+
+Thank you for visiting my portfolio site! Feel free to explore and reach out with any feedback.
+
+## License
+© 2024 [Hearty Parrenas]. All rights reserved.  
+All work, unless otherwise stated, is my **original work**.
